@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a embedded engineer.
-- 🌱 I’m currently learning aws!
+- 🌱 I’m currently learning Next.js!
 - 📫 How to reach me: [Twitter - @tonchan0315ton
 ](https://twitter.com/tonchan0315ton
 )
