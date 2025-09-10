@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a embedded engineer.
-- 🌱 I’m currently learning Next.js!
+- 🌱 I’m currently learning Golang!
 - 📫 How to reach me: [Twitter - @tonchan0315ton
 ](https://twitter.com/tonchan0315ton
 )
@@ -20,7 +20,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,html,css,js,ts,react,next,python,docker," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,html,css,js,ts,react,next,python,docker,go" />
 <br>
 
 
