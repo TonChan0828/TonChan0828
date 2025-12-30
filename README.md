@@ -32,7 +32,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
 </div>
 -->
-- Weekly Dish (献立生成サービス)：https://weekly-dish.vercel.app/
+- Weekly Dish (献立生成サービス)：https://weekly-dish.vercel.app/ -> suspended
 
 <!--
 **TonChan0828/TonChan0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
