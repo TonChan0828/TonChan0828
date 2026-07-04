@@ -33,6 +33,7 @@
 </div>
 -->
 - Weekly Dish (献立生成サービス)：https://weekly-dish.vercel.app/ -> suspended
+- Shallet  (複数人で管理できる家計簿アプリ)：https://household-account-psi.vercel.app/
 
 <!--
 **TonChan0828/TonChan0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
